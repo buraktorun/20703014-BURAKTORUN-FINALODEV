@@ -1,0 +1,11 @@
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\bin\Debug\formuygulaması.exe.config
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\bin\Debug\formuygulaması.exe
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\bin\Debug\formuygulaması.pdb
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.csproj.AssemblyReference.cache
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.csproj.SuggestedBindingRedirects.cache
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.Form1.resources
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.Properties.Resources.resources
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.csproj.GenerateResource.cache
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.csproj.CoreCompileInputs.cache
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.exe
+D:\BURAK YEDEKLEME\BURAK TORUN\ÜNİVERSİTE DOSYALAR\ÜNİVERSİTE (2.SINIF)\BAHAR DÖNEMİ\GÖRSEL PROGRAMLAMA\finalödevi2\finalödevi2\obj\Debug\formuygulaması.pdb
