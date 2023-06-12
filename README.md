@@ -1,5 +1,6 @@
 # OTOMASYON PROJESİ
 ## ÇALIŞTIĞINA DAİR VİDEO LİNKİ:
+https://youtu.be/1-a7Lx0A3Hw
 
 ### 1- FORM TASARIMI:
 ![FORM](https://user-images.githubusercontent.com/72433795/175045726-5ebcc789-013a-4b58-9896-96ff24723e5e.png)
